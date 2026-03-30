@@ -11,6 +11,7 @@ A fully functional **Point of Sale (POS) system** built with Django, designed fo
 * 🧾 **Order Management** – Create, update, and track customer orders in real-time
 * 🍽 **Kitchen Dashboard** – Streamlined interface for kitchen staff
 * 📋 **Menu Management** – Easily manage items, categories, and pricing
+* 📋 **Membership Management** – Easily manage members, billing, and logins
 * 🪑 **Table Management** – Handle dine-in operations with table tracking
 * 📊 **Sales Monitoring** – Basic reporting for business insights
 * ⚡ Fast and responsive UI for smooth workflow
